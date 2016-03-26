@@ -1,0 +1,29 @@
+{
+  "generator-angularjs-library": {
+    "props": {
+      "author": {
+        "name": "Mohammad Al Mouallem",
+        "email": "m.almouallem@gmail.com"
+      },
+      "libraryName": {
+        "original": "vascular-ionic",
+        "camelized": "vascularIonic",
+        "dasherized": "vascular-ionic",
+        "slugified": "vascular-ionic",
+        "parts": [
+          "vascular",
+          "ionic"
+        ]
+      },
+      "includeModuleDirectives": true,
+      "includeModuleFilters": false,
+      "includeModuleServices": true,
+      "includeAngularModuleResource": false,
+      "includeAngularModuleCookies": false,
+      "includeAngularModuleSanitize": false,
+      "librarySrcDirectory": "src/vascular-ionic",
+      "libraryUnitTestDirectory": "test/unit/vascular-ionic",
+      "libraryUnitE2eDirectory": "test/e2e/vascular-ionic"
+    }
+  }
+}
